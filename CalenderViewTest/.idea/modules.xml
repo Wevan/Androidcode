@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalenderViewTest.iml" filepath="$PROJECT_DIR$/CalenderViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbartest/actionbartest.iml" filepath="$PROJECT_DIR$/actionbartest/actionbartest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionhometest/actionhometest.iml" filepath="$PROJECT_DIR$/actionhometest/actionhometest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionitemtest/actionitemtest.iml" filepath="$PROJECT_DIR$/actionitemtest/actionitemtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitymenu/activitymenu.iml" filepath="$PROJECT_DIR$/activitymenu/activitymenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialog/alertdialog.iml" filepath="$PROJECT_DIR$/alertdialog/alertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerademo/camerademo.iml" filepath="$PROJECT_DIR$/camerademo/camerademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameratest/cameratest.iml" filepath="$PROJECT_DIR$/cameratest/cameratest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/choosedate/choosedate.iml" filepath="$PROJECT_DIR$/choosedate/choosedate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogtheme/dialogtheme.iml" filepath="$PROJECT_DIR$/dialogtheme/dialogtheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filedemo/filedemo.iml" filepath="$PROJECT_DIR$/filedemo/filedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filedemo2/filedemo2.iml" filepath="$PROJECT_DIR$/filedemo2/filedemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/golden/golden.iml" filepath="$PROJECT_DIR$/golden/golden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menurestest/menurestest.iml" filepath="$PROJECT_DIR$/menurestest/menurestest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menutest/menutest.iml" filepath="$PROJECT_DIR$/menutest/menutest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationtest/notificationtest.iml" filepath="$PROJECT_DIR$/notificationtest/notificationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchviewtest/searchviewtest.iml" filepath="$PROJECT_DIR$/searchviewtest/searchviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferencesdemo01/sharedpreferencesdemo01.iml" filepath="$PROJECT_DIR$/sharedpreferencesdemo01/sharedpreferencesdemo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitedemo1/sqlitedemo1.iml" filepath="$PROJECT_DIR$/sqlitedemo1/sqlitedemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlitepenhelper/sqlitepenhelper.iml" filepath="$PROJECT_DIR$/sqlitepenhelper/sqlitepenhelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabhosttest/tabhosttest.iml" filepath="$PROJECT_DIR$/tabhosttest/tabhosttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testxml/testxml.iml" filepath="$PROJECT_DIR$/testxml/testxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" filepath="$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" />
+    </modules>
+  </component>
+</project>

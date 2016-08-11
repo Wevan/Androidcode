@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnBroadcastReceiver/LearnBroadcastReceiver.iml" filepath="$PROJECT_DIR$/LearnBroadcastReceiver/LearnBroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnLog/LearnLog.iml" filepath="$PROJECT_DIR$/LearnLog/LearnLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnService.iml" filepath="$PROJECT_DIR$/LearnService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnWebView/LearnWebView.iml" filepath="$PROJECT_DIR$/LearnWebView/LearnWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anotherapp/anotherapp.iml" filepath="$PROJECT_DIR$/anotherapp/anotherapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connectservice/connectservice.iml" filepath="$PROJECT_DIR$/connectservice/connectservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/startservicefromanotherapp/startservicefromanotherapp.iml" filepath="$PROJECT_DIR$/startservicefromanotherapp/startservicefromanotherapp.iml" />
+    </modules>
+  </component>
+</project>

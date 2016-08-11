@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Android\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actionbartest" />
+            <option value="$PROJECT_DIR$/actionhometest" />
+            <option value="$PROJECT_DIR$/actionitemtest" />
+            <option value="$PROJECT_DIR$/activitymenu" />
+            <option value="$PROJECT_DIR$/alertdialog" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/camerademo" />
+            <option value="$PROJECT_DIR$/cameratest" />
+            <option value="$PROJECT_DIR$/choosedate" />
+            <option value="$PROJECT_DIR$/dialogtheme" />
+            <option value="$PROJECT_DIR$/filedemo" />
+            <option value="$PROJECT_DIR$/filedemo2" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/golden" />
+            <option value="$PROJECT_DIR$/menurestest" />
+            <option value="$PROJECT_DIR$/menutest" />
+            <option value="$PROJECT_DIR$/notificationtest" />
+            <option value="$PROJECT_DIR$/searchviewtest" />
+            <option value="$PROJECT_DIR$/sharedpreferencesdemo01" />
+            <option value="$PROJECT_DIR$/sqlitedemo1" />
+            <option value="$PROJECT_DIR$/sqlitepenhelper" />
+            <option value="$PROJECT_DIR$/tabhosttest" />
+            <option value="$PROJECT_DIR$/testxml" />
+            <option value="$PROJECT_DIR$/viewpagerdemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/actionbartest" />
+            <option value="$PROJECT_DIR$/actionhometest" />
+            <option value="$PROJECT_DIR$/actionitemtest" />
+            <option value="$PROJECT_DIR$/activitymenu" />
+            <option value="$PROJECT_DIR$/alertdialog" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/camerademo" />
+            <option value="$PROJECT_DIR$/cameratest" />
+            <option value="$PROJECT_DIR$/choosedate" />
+            <option value="$PROJECT_DIR$/dialogtheme" />
+            <option value="$PROJECT_DIR$/filedemo" />
+            <option value="$PROJECT_DIR$/filedemo2" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/golden" />
+            <option value="$PROJECT_DIR$/menurestest" />
+            <option value="$PROJECT_DIR$/menutest" />
+            <option value="$PROJECT_DIR$/notificationtest" />
+            <option value="$PROJECT_DIR$/searchviewtest" />
+            <option value="$PROJECT_DIR$/sharedpreferencesdemo01" />
+            <option value="$PROJECT_DIR$/sqlitedemo1" />
+            <option value="$PROJECT_DIR$/sqlitepenhelper" />
+            <option value="$PROJECT_DIR$/tabhosttest" />
+            <option value="$PROJECT_DIR$/testxml" />
+            <option value="$PROJECT_DIR$/viewpagerdemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
